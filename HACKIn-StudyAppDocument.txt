@@ -23,7 +23,7 @@ Group discussion for HACK
 ? What are the key functions?
 ? What screens will each user see?
 
-	See items #4 through #6 above
+	See items #4 through #6 below
 
 ? What will your final demo look like?
 ? Describe the flow for your final demo
@@ -48,7 +48,7 @@ Group discussion for HACK
 ? What strategy is your team using to split up the group project work?
 ? How are you going to do your best to divide the work fairly?
 
-	Donít know yet. Open to suggestions from CodePath
+	Don‚Äôt know yet. Open to suggestions from CodePath
 
 ? What are your technical concerns?
 ? What technical features do you need help or resources for?
@@ -89,7 +89,7 @@ Types of users:
  
 2. User --- other teachers or students that use this app
 	a. Requests to be part of this group
-	b. Uses ìchat: to communicate
+	b. Uses ‚Äúchat: to communicate
 	c. Able to transfer files within this group or other groups
 	d. Use camera to take picture and transfer to group
 
@@ -119,7 +119,7 @@ USER STORY: USER
 	1. USER is able to register on self REGISTRATION SCREEN 
 	?  User registers on self registration screen
 	? Admin approves/denies membership
-	? Reply letter with confirmation (yes/no) comes to userís email
+	? Reply letter with confirmation (yes/no) comes to user‚Äôs email
 
 	2. Registered user is able to login on the LOGIN SCREEN
 	3. User forgets his email, enter FORGOT LOGIN screen and receives password on the registered email.
@@ -143,11 +143,11 @@ On the MAIN SCREEN there are groups.
 
 	8. User sees new assignment, enters it
 	?  he sees back timer on dashboards
-	?  marks it for him as ìIn Progressî
+	?  marks it for him as ‚ÄúIn Progress‚Äù
 	?  Administrator gets this as a push notification.
 
 	9. User completes the assignment 
-	? User marks it as ìResolvedî
+	? User marks it as ‚ÄúResolved‚Äù
 	? Administrator gets this as a push notification.
 
 
